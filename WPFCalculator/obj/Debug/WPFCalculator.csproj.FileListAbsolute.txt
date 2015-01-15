@@ -1,0 +1,12 @@
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\MainWindow.baml
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\MainWindow.g.cs
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\App.g.cs
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator_MarkupCompile.cache
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.g.resources
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\bin\Debug\WPFCalculator.exe
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\bin\Debug\WPFCalculator.pdb
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.exe
+c:\users\dev\documents\visual studio 2012\Projects\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.pdb

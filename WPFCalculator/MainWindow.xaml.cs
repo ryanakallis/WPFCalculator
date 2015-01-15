@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -22,6 +23,30 @@ namespace WPFCalculator
 		public MainWindow()
 		{
 			InitializeComponent();
+		}
+
+		private void Add_Click(object sender, RoutedEventArgs e)
+		{
+			int output = Int32.Parse(Number1.Text) + Int32.Parse(Number2.Text);
+			Result.Text = output.ToString();
+		}
+
+		private void Subtract_Click(object sender, RoutedEventArgs e)
+		{
+			int output = Int32.Parse(Number1.Text) - Int32.Parse(Number2.Text);
+			Result.Text = output.ToString();
+		}
+
+		private void Multiply_Click(object sender, RoutedEventArgs e)
+		{
+			int output = Int32.Parse(Number1.Text) * Int32.Parse(Number2.Text);
+			Result.Text = output.ToString();
+		}
+
+		private void Divide_Click(object sender, RoutedEventArgs e)
+		{
+			int output = Int32.Parse(Number1.Text) / Int32.Parse(Number2.Text);
+			Result.Text = output.ToString();
 		}
 	}
 }
